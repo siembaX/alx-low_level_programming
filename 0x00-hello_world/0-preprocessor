@@ -1,2 +1,2 @@
 #!/bin/bash
-betty main.c > results.txt
+betty main.c -o c
